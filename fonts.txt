@@ -1,0 +1,6 @@
+Fonts using in this website is 
+	Lato:
+		Italic
+		Bold
+		Light
+		Regular
